@@ -1,0 +1,12 @@
+{
+  "name": "yields-hms",
+  "description": "get hours, minutes and seconds from milliseconds.",
+  "version": "0.0.1",
+  "keywords": [
+    "hms",
+    "time"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
